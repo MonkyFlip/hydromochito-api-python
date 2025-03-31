@@ -56,9 +56,8 @@ Antes de ejecutar la API, asegúrate de tener:
 4. **Configura las credenciales**:
    - Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
      plaintext
-     DATABASE_URL=postgresql://miguel:miguel-admin1234@hydromochito-laravel.cto6isqgsi2s.us-east-2.rds.amazonaws.com/hydromochito
-     JWT_SECRET=tu_secreto_para_jwt
-
+     DATABASE_URL=credenciales de la rds
+     JWT_SECRET=secreto
 
 
 ## Uso
