@@ -40,7 +40,7 @@ Antes de ejecutar la API, asegúrate de tener:
 
 1. **Clona el repositorio**:
 
-   git clone https://tu-repositorio.git
+   git clone [https://tu-repositorio.git](https://github.com/MonkyFlip/hydromochito-api-python.git)
    cd hydromochito-api-python
 
 2. **Configura un entorno virtual**:
@@ -67,7 +67,6 @@ Antes de ejecutar la API, asegúrate de tener:
    uvicorn app.main:app --reload
 
 2. **Accede a la documentación interactiva**:
-   - URL: [http://localhost:8000/docs](http://localhost:8000/docs)
    - Utiliza la interfaz Swagger para probar los endpoints.
 
 
