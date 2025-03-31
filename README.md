@@ -40,7 +40,7 @@ Antes de ejecutar la API, asegúrate de tener:
 
 1. **Clona el repositorio**:
 
-   git clone [https://tu-repositorio.git](https://github.com/MonkyFlip/hydromochito-api-python.git)
+   git clone https://github.com/MonkyFlip/hydromochito-api-python.git
    cd hydromochito-api-python
 
 2. **Configura un entorno virtual**:
